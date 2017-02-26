@@ -10,4 +10,4 @@ Silahkan kunjungi grup facebook di: [**`Iprakom Facebook`**](https://www.faceboo
 
 Github di : [**`Iprakom Github`**](https://github.com/iprakom)
 
-Bila ada `issue` pada website ini silahkan [**`Buka Issue Baru`**](https://github.com/iprakom/iprakom/issues/new)
+Bila ada `issue` pada website ini silahkan [**`Buka Issue Baru`**](https://github.com/iprakomindonesia/iprakom/issues/new)
