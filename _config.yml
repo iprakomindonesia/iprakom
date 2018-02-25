@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Ikatan Pranata Komputer Indonesia.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-114754244-1
 excerpt_separator: <a name='more'></a>
 paginate: 5
 twitter_username: iprakom
