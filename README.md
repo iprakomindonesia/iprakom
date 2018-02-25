@@ -7,7 +7,7 @@
 [![GitHub Contributors](https://img.shields.io/github/contributors/iprakomindonesia/iprakom.svg?maxAge=3600)](https://github.com/iprakomindonesia/iprakom/network/members)
 
 ## Homepage Website
-Halaman resmi Iprakom Indonesia bisa diakses di [**Iprakom**](http://iprakom.id/)
+Halaman resmi Iprakom Indonesia bisa diakses di [**Iprakom**](https://iprakom.id/)
 
 ## Tentang Kami
 
