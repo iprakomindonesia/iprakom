@@ -62,11 +62,11 @@ Tidak perlu takut karena bahasa Dart ini intuitif dan mirip seperti JavaScript, 
 
 Cara pemasangan _plugins_ pada Intellij IDEA, cukup masuk ke menu **Preference** kemudian pilih menu **Plugins** dan cari _plugins_ Flutter dan Dart seperti gambar berikut :
 
-![Pemasangan Plugin Flutter di Intellij IDEA](2019-01-24-plugin-idea.png)
+![Pemasangan Plugin Flutter di Intellij IDEA](/assets/img/2019-01-24-plugin-idea.png)
 
 Sedangkan untuk pemasangan _plugins_ pada Visual Studio Code, ada pada menu **Extensions** dan carilah ekstensi dengan nama Flutter dan Dart seperti gambar berikut :
 
-![Pemasangan Plugin Flutter di Visual Studio Code](2019-01-24-plugin-vsc.png)
+![Pemasangan Plugin Flutter di Visual Studio Code](/assets/img/2019-01-24-plugin-vsc.png)
 
 Untuk pemasangan _plugins_ di Android Studio Code kurang lebih caranya sama seperti pemasangan _plugins_ pada Intellij IDEA, karena memang Android Studio Code menggunakan Intellij IDEA sebagai basisnya, dan terutama karena saya tidak melakukan pemasangan Android Studio Code 😆.
 
@@ -82,7 +82,7 @@ flutter doctor
 
 Dan pastikan mendapatkan hasil kurang lebih seperti berikut :
 
-![Hasil Flutter Doctor](2019-01-24-flutter-doctor.png)
+![Hasil Flutter Doctor](/assets/img/2019-01-24-flutter-doctor.png)
 
 Hasil tersebut ada catatan di bagian Android Studio, karena memang saya tidak memasang aplikasi tersebut, dan bukan menjadi masalah.
 
@@ -140,6 +140,6 @@ Pada tutorial ini, _bar_ aplikasi akan terdiri dari sebuah teks `Judul Aplikasi`
 
 Apabila kode tersebut dijalankan, proses awalnya akan memakan waktu cukup banyak karena perlu adanya konversi kode dari _Dart_ ke bahasa _native_. Hasilnya kurang lebih akan terlihat seperti gambar berikut :
 
-![Gambar Preview Hasil Flutter](2019-01-24-demo.png)
+![Gambar Preview Hasil Flutter](/assets/img/2019-01-24-demo.png)
 
 Begitulah awal kita memasang dan memulai sebuah proyek aplikasi _mobile_ di Android atau iOS. 
