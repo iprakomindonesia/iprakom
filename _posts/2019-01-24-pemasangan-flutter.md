@@ -2,7 +2,7 @@
 layout: post
 title:  "Pemasangan Flutter"
 date:   2019-01-24 14:11:30 +0700
-categories: pemrograman, flutter
+categories: [pemrograman, flutter]
 ---
 
 Materi ini akan membahas bagaimana memasang **Flutter** agar dapat digunakan untuk mengembangkan aplikasi pada Android atau iOS.
