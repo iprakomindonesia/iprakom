@@ -142,4 +142,4 @@ Apabila kode tersebut dijalankan, proses awalnya akan memakan waktu cukup banyak
 
 ![Gambar Preview Hasil Flutter](/assets/img/2019-01-24-demo.png)
 
-Begitulah awal kita memasang dan memulai sebuah proyek aplikasi _mobile_ di Android atau iOS. 
+Begitulah awal kita memasang dan memulai sebuah proyek aplikasi _mobile_ di Android atau iOS. Semoga dapat dilanjutkan untuk menggunakan beberapa komponen yang ada. 
