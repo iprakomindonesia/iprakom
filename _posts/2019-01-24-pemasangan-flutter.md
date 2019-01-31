@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pemasangan Flutter"
-date:   2019-01-24 14:11:30 +0700
+date:   2019-01-24 14:11:00 +0700
 categories: [pemrograman, flutter]
 ---
 
