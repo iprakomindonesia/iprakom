@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pemasangan Flutter"
-date:   2019-01-24 14:11:30 +0700
+date:   2019-01-24 14:11:00 +0700
 categories: [pemrograman, flutter]
 ---
 
@@ -142,4 +142,4 @@ Apabila kode tersebut dijalankan, proses awalnya akan memakan waktu cukup banyak
 
 ![Gambar Preview Hasil Flutter](/assets/img/2019-01-24-demo.png)
 
-Begitulah awal kita memasang dan memulai sebuah proyek aplikasi _mobile_ di Android atau iOS. 
+Begitulah awal kita memasang dan memulai sebuah proyek aplikasi _mobile_ di Android atau iOS. Semoga dapat dilanjutkan untuk menggunakan beberapa komponen yang ada. 
